@@ -2,7 +2,7 @@
 
 ### https://nextjs-ecommerce-typescript.vercel.app/
 
-
+   
  - don't forget to leave a star ! :)
 
 
